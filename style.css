@@ -1,0 +1,13 @@
+body{
+    background-color: purple;
+    color: white;
+}
+.header{
+    width: 90%;
+    font-size: large;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+#objects{
+    color: white;
+}
